@@ -1,0 +1,19 @@
+.jumbotron {
+    padding-top: 8rem;
+    /* background-color: #F88F01; */
+}
+
+#product {
+    background-color: #F88F01;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+p,
+h2,
+h1,
+a {
+    color: #58391C;
+}
